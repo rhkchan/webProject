@@ -22,7 +22,7 @@ I have include the complete eclipse project and a war file.
 SimpleWebProject.zip
 SimpleWebProject.war
 
-You can either deploy the war file in a webserver or import the project into Eclipse and run it on a deployed webserver like Apache-Tomcat.
+You can either deploy the war file in a webserver or import the project into Eclipse and run it on a deployed webserver like Apache-Tomcat. For the later you will need to configue the path for the JDK, Apache-Tomcat and the library for javax.json-1.0.jar.
 
 URL:
 
